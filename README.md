@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
 
 ![urllib3](https://github.com/urllib3/urllib3/raw/main/docs/_static/banner_github.svg)
 
